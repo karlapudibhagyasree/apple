@@ -1,4 +1,4 @@
-public class Demo 
+public class set4 
 {
    static boolean val1;
    static double val2;
